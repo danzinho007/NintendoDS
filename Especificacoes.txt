@@ -1,0 +1,40 @@
+Dados:
+
+NintendoDS ( DS = DualScreen )
+Lançamento = ??/11/2004
+		  /2006
+		  /2009
+Modelos = Fat, Lite, DSi DSI_XL
+Processadores = CPU_NTR c/ 2_Arquiteturas : ARM7TDNI (33MHz) e ARM946E-S (67MHz)
+RAM = 4 MB
+CPU_RAM = 32 KB
+ARM7 = 64 KB
+1 Tela 3D ou 2 Telas 2D
+PCM = 16 canais
+Audio = MIDI
+Cartucho = 512 MB
+CartuchoSave = SRAM
+
+Memória_Principal:
+PSRAM = 4 MB
+WRAM RamDeTrabalho = 32 KB
+WRAM = 64 KB
+
+Jogos:
+Cabeçalho = 4 KB
+ÁreaSegura = 16 KB
+ConteúdoPrincipal = Variável
+ROM = 256MB
+
+Compilador ARM:
+devkitPro = Conjunto de ferramentas pra executar
+Biblioteca = libnds
+mmutil = Ferramenta para converter arquivo de som
+grit = Analisar imagens buscando o padrão
+
+Emulação:
+no%gba
+desMume
+
+Jogos:
+As Incríveis Aventuras de Byteson

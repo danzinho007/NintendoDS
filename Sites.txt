@@ -1,0 +1,52 @@
+
+Sites:
+
+https://www.copetti.org/writings/consoles/nintendo-ds/
+
+https://doc.kodewerx.org/hacking_nds.html#hacking_methods
+
+https://ds-pokemon-hacking.github.io/
+https://dshack.org/ctgp-n/
+
+Jogos Hack DS
+https://www.gamebrew.org/wiki/List_of_all_DS_Rom_Hacks
+
+https://gbatemp.net/threads/the-ultimate-nintendo-ds-rom-hacking-guide.291274/
+
+https://gbatemp.net/threads/deadskullzjrs-nds-i-cheat-databases.488711/
+
+Extract/view/convert Nintendo DS .nsbmd models
+https://github.com/scurest/apicula	
+
+Editar Pokémon:
+https://www.hackromtools.info/hack-tools-nds/
+
+https://lume.ufrgs.br/bitstream/handle/10183/18569/000730939.pdf?sequence=1
+
+10 Melhores hacks de Pokemon
+https://mocpogo.com/change-location/best-pokemon-ds-rom-hack/
+
+https://osgameclones.com/
+
+https://problemkaputt.de/gba.htm#debug
+https://problemkaputt.de/gbatek.htm#dstechnicaldata
+
+https://www.ptjogos.com/V%C3%ADdeo--computador-e-Internet-Jogos/Nintendo-DS/1009089978.html
+
+10 Melhores Hacks de DS
+https://retrododo.com/best-nintendo-ds-rom-hacks/
+
+17 Melhores Hacks de Pokemon
+https://retrododo.com/best-pokemon-nintendo-ds-rom-hacks/
+
+https://www.romhacking.net/forum/index.php?topic=36728.0
+
+Jogos:
+https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20(Decrypted)/
+
+Vi
+https://www.youtube.com/watch?v=1zeSe86oXp0 Hacking_DS
+https://www.youtube.com/watch?v=C6RCtaaJb-o Anatomia_Hardware !
+https://www.youtube.com/watch?v=E94kJyLc4H8 DSi vs Lite
+https://www.youtube.com/watch?v=phAkWYDOOfA Análise
+https://www.youtube.com/watch?v=tdpGWjoGEP4 Extrair_ROM
